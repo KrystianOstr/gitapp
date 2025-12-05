@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/krystianostrogorski/Az-400-learning/_apis/build/status%2FKrystianOstr.gitapp?branchName=master)](https://dev.azure.com/krystianostrogorski/Az-400-learning/_build/latest?definitionId=10&branchName=master)
